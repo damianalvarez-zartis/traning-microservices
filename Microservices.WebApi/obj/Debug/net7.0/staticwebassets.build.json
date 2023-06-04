@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pHLocysnEquzrD7tE/0DGzVwpE5T5UkCpnfuo3PKJPo=",
+  "Source": "Microservices.WebApi",
+  "BasePath": "_content/Microservices.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vft8ZKyrjpFTIg8LLKuarQx1Qc0kmHUmqx6zR724vFEzM8WWwUJ64EW4ESukrCKDk+jpKGF2Pab7nwpv8i5/TA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\training\\microservices\\Microservices.WebApi\\Microservices.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damian Alvarez\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
